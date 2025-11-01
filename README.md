@@ -10,10 +10,11 @@ Gadget enthusiast | Cognitive science student | Cat lover
 ---
 
 ### 💻 What I’m working on
-- Writing clean, maintainable code in **Python** using **OOP** principles  
-- Building web applications with **Django** and **Flask**  
-- Working with **PostgreSQL**, **SQLite**, and **SQLAlchemy**  
-- Using **Git**, **GitHub**, and branching workflows for version control  
+- Writing maintainable code in **Python**  
+- Building web applications with **Django** and **Flask** (backend)
+- Designing and working with **RESTful APIs**
+- Using **PostgreSQL** and **SQLite** for data storage 
+- Using **Git**, **GitHub** (branching, pull requests, code review)
 - Containerizing applications with **Docker** and managing environments  
 - Experimenting with **AWS SageMaker**, **Lambda**, and **Step Functions**  
 - Automating tests and deployment with **CI/CD** tools  
@@ -23,15 +24,12 @@ Gadget enthusiast | Cognitive science student | Cat lover
 ---
 
 ### 🚀 My projects
-**AI / ML (Udacity)**
+- **Task Manager** — simple, but full-featured Django app with statuses, labels, and users  
+- **Page Analyzer** — simple Flask app for analyzing website  
+- **File Tree Difference Utility** — command-line tool for comparing files
 - **Landmark Classifier (CNN)** — image recognition with PyTorch  
 - **Scones Unlimited (AWS)** — end-to-end ML workflow on SageMaker  
 - **Bike Sharing Demand** — AutoML regression with AutoGluon  
-
-**Web Development (Hexlet)**
-- **Task Manager** — full-featured Django app with statuses, labels, and users  
-- **Page Analyzer** — Flask app for analyzing website SEO and performance  
-- **File Tree Difference Utility** — command-line tool for comparing file system structures  
 
 ---
 
