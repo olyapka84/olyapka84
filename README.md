@@ -5,7 +5,7 @@ After years of working with technology-focused media and web platforms, I decide
 
 📍 Based in Lublin, Poland
 
-Gadget enthusiast | Cognitive science student | Cat lover
+Gadget enthusiast | MA in Cognitive science | Cat lover
 
 ---
 
